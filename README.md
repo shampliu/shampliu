@@ -1,1 +1,1 @@
-Hi there! I'm Chang, a freelance creative developer focused on WebGL and Javascript experiences. I mostly make websites but would love to branch out to installations and games in the future. I also do [photography](https://www.instagram.com/shampliu/) on the side. 
+Hi I'm Chang, a creative technologist focused on realtime 3D graphics / design engineering. I mostly work on the web but would love to branch out to installations and games. I also work on [photos / videos](https://www.instagram.com/shampliu/). 
